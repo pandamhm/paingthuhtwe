@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my WALL 🌱,
 
-## I am a junior web developer with experience in HTML, CSS, JavaScript, Vuejs, TailwindCss, Bootstrap, PHP, MySQL, Laravel, API, Git & GitHub. I am eager to take on new challenges and collaborate with others to continue growing as a developer.
 
-```
+### I am a junior web developer with experience in HTML, CSS, JavaScript, Vuejs, TailwindCss, Bootstrap, PHP, MySQL, Laravel, API, Git & GitHub. I am eager to take on new challenges and collaborate with others to continue growing as a developer.
+
+
 ### My Portfolio
 [https://paingthuhtwe-portfolio.web.app](https://paingthuhtwe-portfolio.web.app)
-```
+
 
 
 <!--
