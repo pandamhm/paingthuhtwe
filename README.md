@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning reactjs and nextjs.
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: paingthuhtwe.official@gmail.com
+- 📫 How to reach me: paingthuhtwe.dev@gmail.com
 - 😄 Pronouns: he/him ❤️
 - ⚡ Fun fact: Reading is my favorite hobby.
