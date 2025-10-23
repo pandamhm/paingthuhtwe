@@ -4,11 +4,6 @@
 
 I am a junior web developer. I am eager to take on new challenges and collaborate with others to continue growing as a developer.
 
-
-[https://portfolio-paingthuhtwe.web.app/](https://portfolio-paingthuhtwe.web.app/)
-
-
-
 <!--
 **paingthuhtwe/paingthuhtwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
